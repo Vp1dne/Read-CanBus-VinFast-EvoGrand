@@ -62,10 +62,6 @@ Bộ công cụ cung cấp giải pháp trọn gói:
 
 **Lưu ý kỹ thuật:**
 
-* **Trở đầu cuối:** Xe đã tích hợp sẵn trở phân mạng CAN. Nếu đấu song song mạch vào xe, hãy gỡ hoặc ngắt jumper trở dán 120 ohm trên module SN65HVD230 để tránh làm giảm trở kháng toàn mạng xuống dưới 60 ohm.
-
-* Chân Rs trên module SN65HVD230 cần được nối xuống GND để chạy chế độ tốc độ cao.
-
 * Cặp dây CAN_H và CAN_L cần được xoắn đôi để chống nhiễu xung điện từ cuộn dây động cơ.
 
 ## III. BẢNG MAP GIAO THỨC CAN BUS (250KBPS, 11-BIT STANDARD ID)
